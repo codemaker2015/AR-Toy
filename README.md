@@ -1,7 +1,7 @@
 # AR Toy
 AR based toy visualization application in Android Studio using scenform SDK.
 
-![demo](demo/ARToy.gif)
+<img src="demo/ARToy.gif" width="288" height="624" />
 
 [download APK ](ARToy.apk)
 
