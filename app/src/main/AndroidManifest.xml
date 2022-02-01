@@ -13,13 +13,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ARToy">
         <activity
-            android:name=".ARVisualization"
+            android:name=".activity.ARVisualization"
             android:exported="false" />
         <activity
-            android:name=".MenuActivity"
+            android:name=".activity.MenuActivity"
             android:exported="false" />
         <activity
-            android:name=".LoginActivity"
+            android:name=".activity.LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,7 +28,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name=".activity.MainActivity"
             android:exported="false" />
         <meta-data
             android:name="com.google.ar.core"
