@@ -4,15 +4,20 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Vishnu/MyWorks/Experiments/AndroidStudio/AR/ARToy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1484375" />
+        <entry key="..\:/Vishnu/MyWorks/Experiments/AndroidStudio/AR/ARToy/app/src/main/res/drawable/bg_gradient.xml" value="0.1234375" />
         <entry key="..\:/Vishnu/MyWorks/Experiments/AndroidStudio/AR/ARToy/app/src/main/res/drawable/button_shape.xml" value="0.2111111111111111" />
         <entry key="..\:/Vishnu/MyWorks/Experiments/AndroidStudio/AR/ARToy/app/src/main/res/drawable/button_shape_rounded.xml" value="0.2203125" />
+        <entry key="..\:/Vishnu/MyWorks/Experiments/AndroidStudio/AR/ARToy/app/src/main/res/drawable/ic_icon_bg.xml" value="0.1265625" />
         <entry key="..\:/Vishnu/MyWorks/Experiments/AndroidStudio/AR/ARToy/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1484375" />
+        <entry key="..\:/Vishnu/MyWorks/Experiments/AndroidStudio/AR/ARToy/app/src/main/res/drawable/icon_bg_style.xml" value="0.1265625" />
         <entry key="..\:/Vishnu/MyWorks/Experiments/AndroidStudio/AR/ARToy/app/src/main/res/drawable/info_shape.xml" value="0.125" />
+        <entry key="..\:/Vishnu/MyWorks/Experiments/AndroidStudio/AR/ARToy/app/src/main/res/drawable/splash_background.xml" value="0.1234375" />
         <entry key="..\:/Vishnu/MyWorks/Experiments/AndroidStudio/AR/ARToy/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.13119143239625167" />
         <entry key="..\:/Vishnu/MyWorks/Experiments/AndroidStudio/AR/ARToy/app/src/main/res/layout-w936dp/activity_login.xml" value="0.13866120218579234" />
         <entry key="..\:/Vishnu/MyWorks/Experiments/AndroidStudio/AR/ARToy/app/src/main/res/layout/activity_arvisualization.xml" value="0.33" />
         <entry key="..\:/Vishnu/MyWorks/Experiments/AndroidStudio/AR/ARToy/app/src/main/res/layout/activity_login.xml" value="0.12" />
         <entry key="..\:/Vishnu/MyWorks/Experiments/AndroidStudio/AR/ARToy/app/src/main/res/layout/activity_menu.xml" value="0.22" />
+        <entry key="..\:/Vishnu/MyWorks/Experiments/AndroidStudio/AR/ARToy/app/src/main/res/layout/activity_splash_screen.xml" value="0.10729166666666666" />
         <entry key="..\:/Vishnu/MyWorks/Experiments/AndroidStudio/AR/ARToy/app/src/main/res/layout/button_layout.xml" value="0.1838768115942029" />
         <entry key="..\:/Vishnu/MyWorks/Experiments/AndroidStudio/AR/ARToy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/Vishnu/MyWorks/Experiments/AndroidStudio/AR/ARToy/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
